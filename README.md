@@ -7,7 +7,7 @@ This repository includes resources about software development.
 
 ## Web Development
 
-* [kudvenkat Youtube Channel](http://www.dropwizard.io/1.0.2/docs/) - C#, ASP .NET, ASP .NET MVC, DOT NET, SQL Server, Angular, Solid Design Patterns, ASP .NET Web API
+* [kudvenkat Youtube Channel](https://www.youtube.com/user/kudvenkat/playlists) - C#, ASP .NET, ASP .NET MVC, DOT NET, SQL Server, Angular, Solid Design Patterns, ASP .NET Web API
 * ["the web developer bootcamp" course on udemy.com](https://www.udemy.com/the-web-developer-bootcamp/) - HTML, CSS, JS, Bootstrap 3, Bootstrap 4, jQuery, NodeJS, ExpressJS, MongoDB
 
 ## SQL
