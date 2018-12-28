@@ -1,7 +1,7 @@
 # software-development-resources
 This repository includes resources about software development.
 
-## Git - Github - Gitlab
+## Git-Github-Gitlab
 
 * [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git tutorial (youtube)
 
