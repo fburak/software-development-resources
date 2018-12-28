@@ -3,7 +3,7 @@ This repository includes resources about software development.
 
 ## Git - Github - Gitlab
 
-* [Git Tutorial](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git tutorial (youtube)
+* [Git Tutorial(Turkish)](https://www.youtube.com/watch?v=rWG70T7fePg&list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git tutorial (youtube)
 
 ## Web Development
 
