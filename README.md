@@ -5,10 +5,11 @@ This repository includes resources about software development.
 
 * [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab (youtube)
 
-## Web Development
+## Full Stack Web Development
 
 * [kudvenkat Youtube Channel](https://www.youtube.com/user/kudvenkat/playlists) - C#, ASP .NET, ASP .NET MVC, DOT NET, SQL Server, Angular, Solid Design Patterns, ASP .NET Web API
 * ["the web developer bootcamp" course on udemy.com](https://www.udemy.com/the-web-developer-bootcamp/) - HTML, CSS, JS, Bootstrap 3, Bootstrap 4, jQuery, NodeJS, ExpressJS, MongoDB
+* [A collection of full-stack resources for programmers](https://github.com/charlax/professional-programming#algorithm-and-data-structures)
 
 ## SQL
 
