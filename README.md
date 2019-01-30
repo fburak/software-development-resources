@@ -9,7 +9,7 @@ This repository includes resources about software development.
 
 * [kudvenkat Youtube Channel](https://www.youtube.com/user/kudvenkat/playlists) - C#, ASP .NET, ASP .NET MVC, DOT NET, SQL Server, Angular, Solid Design Patterns, ASP .NET Web API
 * ["the web developer bootcamp" course on udemy.com](https://www.udemy.com/the-web-developer-bootcamp/) - HTML, CSS, JS, Bootstrap 3, Bootstrap 4, jQuery, NodeJS, ExpressJS, MongoDB
-* [A collection of full-stack resources for programmers](https://github.com/charlax/professional-programming#algorithm-and-data-structures)
+* [A collection of full-stack resources for programmers](https://github.com/charlax/professional-programming)
 
 ## SQL
 
