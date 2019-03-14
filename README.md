@@ -1,6 +1,5 @@
 # software-development-resources
-This repository includes resources about software development.
-
+This repository includes a collection of useful resources that I use in software development and machine learning.
 
 ## Git-Github-Gitlab
 * [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab (youtube)
