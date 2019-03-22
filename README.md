@@ -10,7 +10,7 @@ This repository includes a collection of useful resources that I use in software
 * ["the web developer bootcamp" course on udemy.com](https://www.udemy.com/the-web-developer-bootcamp/) - HTML, CSS, JS, Bootstrap 3, Bootstrap 4, jQuery, NodeJS, ExpressJS, MongoDB
 * [A collection of full-stack resources for programmers](https://github.com/charlax/professional-programming)
 * [Authentication, Authorization in ASP.NET MVC](https://www.youtube.com/watch?v=7m6pY8Bpxj4)
-
+* [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 
 ## SQL
 * ["SQL Bootcamp" course on udemy.com](https://www.udemy.com/the-complete-sql-bootcamp/) - PostgreSQL
