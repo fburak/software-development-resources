@@ -1,8 +1,10 @@
 # software-development-resources
 This repository includes a collection of useful resources that I use in software development and machine learning.
 
-## Git-Github-Gitlab
-* [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab (youtube)
+
+## Algorithms
+* [leetcode](https://leetcode.com/) - Algorithm Development Platform
+* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - Algorithms Course from Massachusetts Institute of Technology
 
 
 ## Full Stack Web Development
@@ -12,8 +14,9 @@ This repository includes a collection of useful resources that I use in software
 * [Authentication, Authorization in ASP.NET MVC](https://www.youtube.com/watch?v=7m6pY8Bpxj4)
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 
-## SQL
-* ["SQL Bootcamp" course on udemy.com](https://www.udemy.com/the-complete-sql-bootcamp/) - PostgreSQL
+
+## Git-Github-Gitlab
+* [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab (youtube)
 
 
 ## Machine Learning
@@ -23,3 +26,8 @@ This repository includes a collection of useful resources that I use in software
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - kNN, SVM, Backpropagation, Neural Networks, Convolutional Neural Networks, Google Cloud , Python
 * [CNN](https://www.youtube.com/watch?v=FmpDIaiMIeA) - Convolutional Neural Networks
 * [RNN(LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) - Recurrent Neural Networks(Long Short Term Memory)
+* [Machine Learning Mastery](https://machinelearningmastery.com/) - Well Explained Machine Learning Tutorials
+
+
+## SQL
+* ["SQL Bootcamp" course on udemy.com](https://www.udemy.com/the-complete-sql-bootcamp/) - PostgreSQL
