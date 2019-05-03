@@ -14,6 +14,9 @@ This repository includes a collection of useful resources that I use in software
 * [A collection of full-stack resources for programmers](https://github.com/charlax/professional-programming)
 * [Authentication, Authorization in ASP.NET MVC](https://www.youtube.com/watch?v=7m6pY8Bpxj4)
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
+* [Developing RESTful APIs with JAX-RS](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
+
+
 
 
 ## Git-Github-Gitlab
