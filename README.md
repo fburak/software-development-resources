@@ -20,7 +20,7 @@ This repository includes a collection of useful resources that I use in software
 
 
 ## Git-Github-Gitlab
-* [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab (youtube)
+* [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab
 
 
 ## Machine Learning
@@ -29,7 +29,7 @@ This repository includes a collection of useful resources that I use in software
 * ["Deep learning with python using tensorflow" course on udemy.com](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) - Python, Tensorflow, Deep Learning
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - kNN, SVM, Backpropagation, Neural Networks, Convolutional Neural Networks, Google Cloud , Python
 * [CNN](https://www.youtube.com/watch?v=FmpDIaiMIeA) - Convolutional Neural Networks
-* [RNN(LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) - Recurrent Neural Networks(Long Short Term Memory)
+* [RNN(LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) - Recurrent Neural Networks(LSTM)
 * [Machine Learning Mastery](https://machinelearningmastery.com/) - Well Explained Machine Learning Tutorials
 
 
