@@ -33,7 +33,7 @@ This repository includes a collection of useful resources that I use in software
 ### Computer Vision
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - kNN, SVM, Backpropagation, Neural Networks, Convolutional Neural Networks, Google Cloud , Python
 * [CNN](https://www.youtube.com/watch?v=FmpDIaiMIeA) - Convolutional Neural Networks
-
+* [YOLO](https://www.youtube.com/watch?v=9s_FpMpdYW8) - YOLO Algorithm Explanation
 
 
 ## Image Processing
