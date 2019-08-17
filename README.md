@@ -1,5 +1,5 @@
 # software-development-resources
-This repository includes a collection of useful resources that I use in software development and machine learning.
+Useful Resources
 
 
 
@@ -30,6 +30,7 @@ This repository includes a collection of useful resources that I use in software
 * ["Deep learning with python using tensorflow" course on udemy.com](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) - Python, Tensorflow, Deep Learning
 * [RNN(LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) - Recurrent Neural Networks(LSTM)
 * [Machine Learning Mastery](https://machinelearningmastery.com/) - Well Explained Machine Learning Tutorials
+* [Regression Example with Tensorflow](https://www.youtube.com/watch?v=-vHQub0NXI4)
 ### Computer Vision
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - kNN, SVM, Backpropagation, Neural Networks, Convolutional Neural Networks, Google Cloud , Python
 * [CNN](https://www.youtube.com/watch?v=FmpDIaiMIeA) - Convolutional Neural Networks
