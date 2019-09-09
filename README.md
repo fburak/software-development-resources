@@ -1,6 +1,4 @@
 # software-development-resources
-Useful Resources
-
 
 
 ## Algorithms
