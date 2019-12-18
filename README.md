@@ -23,6 +23,7 @@
 
 
 ## Machine Learning
+
 ### Courses
 * [Beyond Jupyter Notebooks](https://www.udemy.com/course/beyond-jupyter-notebooks/) - Docker, Jupyter, PostgreSQL, Minio, Superset, Airflow, API-Star
 * ["Machine Learning" course from coursera.com](https://www.coursera.org/learn/machine-learning) - Linear Regression, Logistic Regression, Linear Algebra, Regularization, Neural Networks
@@ -38,8 +39,8 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - kNN, SVM, Backpropagation, Neural Networks, Convolutional Neural Networks, Google Cloud , Python
 * [CNN](https://www.youtube.com/watch?v=FmpDIaiMIeA) - Convolutional Neural Networks
 * [CNN in Depth](https://www.youtube.com/watch?v=JB8T_zN7ZC0&list=PLVZqlMpoM6kaJX_2lLKjEhWI0NlqHfqzp&index=8) - Convolutional Neural Networks in Depth
-
 * [YOLO](https://www.youtube.com/watch?v=9s_FpMpdYW8) - YOLO Algorithm Explanation
+
 ### Tools
 * [TensorFlow in Google Colaboratory](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL)
 
