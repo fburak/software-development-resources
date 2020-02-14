@@ -44,7 +44,7 @@
 
 ### Tools
 * [TensorFlow in Google Colaboratory](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL)
-
+* [python-numpy-tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 
 ## Image Processing
