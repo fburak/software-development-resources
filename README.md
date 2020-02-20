@@ -49,6 +49,8 @@
 
 ## Image Processing
 * [CC1](https://www.youtube.com/watch?v=ticZclUYy88), [CC2](https://www.youtube.com/watch?v=hMIrQdX4BkE) - Connected Components in an Image
+* [Image Stitching Opencv Python](https://www.youtube.com/watch?v=-9MXhM_HmxE) - Image Stitching with Opencv and Python
+
 ### Tools
 * [OpenCV(C++) Installation Visual Studio 2015 ](https://www.youtube.com/watch?v=l4372qtZ4dc) - OpenCV C++
 
