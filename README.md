@@ -30,8 +30,11 @@
 * ["Python for Data Science and ML Bootcamp" course on udemy.com](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Python(Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn) , Machine Learning, Tensorflow, Jupyter
 * ["Deep learning with python using tensorflow" course on udemy.com](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) - Python, Tensorflow, Deep Learning
 ### Tutorials
-* [How Neural Networks Work](https://www.youtube.com/playlist?list=PLVZqlMpoM6kaJX_2lLKjEhWI0NlqHfqzp) - How Neural Networks Work
 * [Machine Learning Mastery](https://machinelearningmastery.com/) - Machine Learning Tutorials
+#### Neural Networks
+* [How Neural Networks Work](https://www.youtube.com/playlist?list=PLVZqlMpoM6kaJX_2lLKjEhWI0NlqHfqzp) - How Neural Networks Work
+#### Backpropagation
+* [Backpropagation](https://www.youtube.com/watch?v=0e0z28wAWfg) - Backpropagation Example
 #### RNN
 * [RNN(LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI) - Recurrent Neural Networks(LSTM)
 #### Regression
