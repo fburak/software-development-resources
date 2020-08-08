@@ -25,8 +25,8 @@
 ## Machine Learning
 
 ### Courses
-* [Beyond Jupyter Notebooks](https://www.udemy.com/course/beyond-jupyter-notebooks/) - Docker, Jupyter, PostgreSQL, Minio, Superset, Airflow, API-Star
 * ["Machine Learning" course from coursera.com](https://www.coursera.org/learn/machine-learning) - Linear Regression, Logistic Regression, Linear Algebra, Regularization, Neural Networks
+* [Beyond Jupyter Notebooks](https://www.udemy.com/course/beyond-jupyter-notebooks/) - Docker, Jupyter, PostgreSQL, Minio, Superset, Airflow, API-Star
 * ["Python for Data Science and ML Bootcamp" course on udemy.com](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Python(Numpy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn) , Machine Learning, Tensorflow, Jupyter
 * ["Deep learning with python using tensorflow" course on udemy.com](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) - Python, Tensorflow, Deep Learning
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - kNN, SVM, Backpropagation, Neural Networks, Convolutional Neural Networks, Google Cloud , Python
