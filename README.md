@@ -20,7 +20,8 @@
 ## Git-Github-Gitlab
 * [Git Tutorial(Turkish)](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Git-Github-Gitlab
 
-
+## Data Mining
+* [Data Mining Map](http://www.saedsayad.com/data_mining_map.htm)
 
 ## Machine Learning
 
