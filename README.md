@@ -12,6 +12,7 @@
 
 ### Python
 * [Data Structures in Python](https://towardsdatascience.com/data-structures-in-python-da813beb2a0d)
+* [Difference between list and tuple](https://www.afternerd.com/blog/difference-between-list-tuple/)
 
 
 
